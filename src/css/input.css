@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custome css add here*/
+
+/* test */
+.card {
+  height: 200px;
+  background-image: resolve("image.jpg");
+}
